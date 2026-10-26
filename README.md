@@ -10,7 +10,7 @@
 
 ## 📌 About Me
 - 🌱 I’m currently learning Machine Learning
-- 👨‍💻 My CV avaible at https://rxresu.me/mervenisakapan/26-subat
+- 👨‍💻 My CV avaible at https://rxresu.me/mervenisakapan/13-eyluel
 - 📫 How to reach me mervenisakapan@gmail.com
 
 
